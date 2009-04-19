@@ -1,0 +1,99 @@
+# These are some regular expressions that express common multi-word corrections.
+#
+# I do not think that most of these will work as-is in Vim (they were originally devised for sed.)
+# At this time I do not think that Vim supports multi-word abbreviations / corrections, but
+# at some point this might be nice to do, so I'm creating a file that contains this information
+# so if Vim ever does support it or we think of more of this type, we have
+# somewhere to put them. This file should be reviewed for sensibleness before
+# doing anything with it though.
+
+s/ an domain / a domain /g;
+s/ an thus / and thus /g;
+s/ by at / by /g;
+s/-cas /-case /g;
+s/ despite of / despite /g;
+s/ edn-/ end-/g;
+s/ a a / a /g;
+s/ an an / an /g;
+s/ an another/ another/g;
+s/ and and / and /g;
+s/ as as / as /g;
+s/ been been / been /g;
+s/ chapter chapter / chapter /g;
+s/ confidentiality confidentiality / confidentiality /g;
+s/ evaluated assessed / evaluated /g;
+s/ in in / in /g;
+s/ is is / is /g;
+s/ route route / route /g;
+s/ the the / the /g;
+s/ the \\emph{the / the \\emph{/g;
+s/ the this / this /g;
+s/ the our / the /g;
+s/ this the / this /g;
+s/ with with / with /g;
+s/ within in / in /g;
+s/ set of router / set of routers /g;
+s/ a domains / a domain /g;
+s/ an heu/ a heu/g;
+s/ a many / many /g;
+s/ can not / cannot /g;
+s/ different of / different from /g;
+s/ each domains / each domain /g;
+s/ every domains / every domain /g;
+s/ forbids to find / forbids finding /g;
+s/ sents / sends /g;
+s/in term of /in terms of /g;
+s/In the previous sections/In previous sections/g;
+s/\([Ii]\)n most of the cases/\1n most cases/g;
+s/ more[ ]*strict / stricter /g;
+s/ number of path / number of paths /g;
+s/ of a segment of a path / of a path segment /g;
+s/Of course/Typically/g;
+s/of course/typically/g;
+s/ of this works / of this work /g;
+s/ sensible information / sensitive information /g;
+s/ they divides / they divide /g;
+s/ this algorithms / this algorithm /g;
+s/ these result / these results /g;
+s/ These result / These results /g;
+s/ to memorizes/ to memorize/g;
+s/ we investigates / we investigate /g;
+s/ is defined as / is /g;
+s/ due to / because of /g;
+s/does not allow/forbids/g;
+s/ NGN [Nn]etwork / NGN /g;
+s/ BGP [Pp]rotocol / BGP /g;
+s/ PCE [Ee]lement / PCE /g;
+s/ QoS quality / QoS /g;
+s/ w\.r\.t\. / with respect to /g;
+s/EBONE/Ebone/g;
+s/Resource ReserVation Protocol/Resource reSerVation Protocol/g
+s/brute[ ]\{1,\}force/brute-force/g;
+s/ best effort/ best-effort/g;
+s/ colocated/ co-located/g;
+s/distance vector algorithm/distance-vector algorithm/g
+s/distance vector routing/distance-vector routing/g
+s/ domain[ ]\{1,\}level route/ domain-level route/g;
+s/ domain[ ]\{1,\}level topology / domain-level topology /g;
+s/ full[ ]\{1,\}mesh/ full-mesh/g;
+s/hop by hop/hop-by-hop/g;
+s/Hop by hop/Hop-by-hop/g;
+s/ large[ ]\{1,\}scale / large-scale /g;
+s/ link state algorithm/ link-state algorithm/g;
+s/ link state routing/ link-state routing/g;
+s/ non[ ]\{1,\}linear/ non-linear/g;
+s/ non[ ]\{1,\}feasible/ non-feasible/g;
+s/ non[ ]\{1,\}optimal/ non-optimal/g;
+s/ NP[ ]\{1,\}hard/ NP-hard/g;
+s/ NP[ ]\{1,\}complete/ NP-complete/g;
+s/ path[ ]\{1,\}key / path-key /g;
+s/path vector algorithm/path-vector algorithm/g
+s/path vector routing/path-vector routing/g
+s/ search[ ]\{1,\}space/ search-space/g;
+s/tively[ ]\{1,\}correlated/tively-correlated/g;
+s/worst[ ]\{1,\}case/worst-case/g;
+s/mutli/multi/g;
+s/ stated of the art/ state of the art/g;
+s/ space-complexity/ space complexity/g;
+s/tie breaking rule/tie-breaking rule/g;
+s/ time-complexity/ time complexity/g;

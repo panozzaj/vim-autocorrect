@@ -22,6 +22,7 @@ ia Cincinatti Cincinnati
 ia Cincinnatti Cincinnati
 ia Conneticut Connecticut
 ia Dardenelles Dardanelles
+ia Dijktra Dijkstra
 ia Dravadian Dravidian
 ia Enlish English
 ia Europian European
@@ -222,6 +223,8 @@ ia accquainted acquainted
 ia Accquainted Acquainted
 ia accross across
 ia Accross Across
+ia accuraccy accuracy
+ia Accuraccy Accuracy
 ia accussed accused
 ia Accussed Accused
 ia acedemic academic
@@ -306,6 +309,8 @@ ia acustom accustom
 ia Acustom Accustom
 ia acustommed accustomed
 ia Acustommed Accustomed
+ia adaptating adapting
+ia Adaptating Adapting
 ia adavanced advanced
 ia Adavanced Advanced
 ia adbandon abandon
@@ -314,6 +319,8 @@ ia additinally additionally
 ia Additinally Additionally
 ia additionaly additionally
 ia Additionaly Additionally
+ia additionnal additional
+ia Additionnal Additional
 ia addmission admission
 ia Addmission Admission
 ia addopt adopt
@@ -364,6 +371,8 @@ ia admited admitted
 ia Admited Admitted
 ia admitedly admittedly
 ia Admitedly Admittedly
+ia admnistrative administrative
+ia Admnistrative Administrative
 ia adn and
 ia Adn And
 ia adolecent adolescent
@@ -460,6 +469,8 @@ ia agregate aggregate
 ia Agregate Aggregate
 ia agregates aggregates
 ia Agregates Aggregates
+ia agregation aggregation
+ia Agregation Aggregation
 ia agreing agreeing
 ia Agreing Agreeing
 ia agression aggression
@@ -526,6 +537,8 @@ ia algoritm algorithm
 ia Algoritm Algorithm
 ia algoritms algorithms
 ia Algoritms Algorithms
+ia algroithm algorithm
+ia Algroithm Algorithm
 ia alientating alienating
 ia Alientating Alienating
 ia alledge allege
@@ -610,6 +623,8 @@ ia amendmant amendment
 ia Amendmant Amendment
 ia amerliorate ameliorate
 ia Amerliorate Ameliorate
+ia amission admission
+ia Amission Admission
 ia amke make
 ia Amke Make
 ia amking making
@@ -648,6 +663,8 @@ ia ancestory ancestry
 ia Ancestory Ancestry
 ia ancilliary ancillary
 ia Ancilliary Ancillary
+ia andd and
+ia Andd And
 ia androgenous androgynous
 ia Androgenous Androgynous
 ia androgeny androgyny
@@ -658,6 +675,8 @@ ia anihilation annihilation
 ia Anihilation Annihilation
 ia aniversary anniversary
 ia Aniversary Anniversary
+ia anlalyze analyze
+ia Anlalyze Analyze
 ia annoint anoint
 ia Annoint Anoint
 ia annointed anointed
@@ -666,6 +685,8 @@ ia annointing anointing
 ia Annointing Anointing
 ia annoints anoints
 ia Annoints Anoints
+ia annonced announced
+ia Annonced Announced
 ia annouced announced
 ia Annouced Announced
 ia annualy annually
@@ -762,6 +783,8 @@ ia appologies apologies
 ia Appologies Apologies
 ia appology apology
 ia Appology Apology
+ia appraoch approach
+ia Appraoch Approach
 ia apprearance appearance
 ia Apprearance Appearance
 ia apprieciate appreciate
@@ -806,6 +829,8 @@ ia aquisition acquisition
 ia Aquisition Acquisition
 ia aquitted acquitted
 ia Aquitted Acquitted
+ia ar are
+ia Ar Are
 ia aranged arranged
 ia Aranged Arranged
 ia arangement arrangement
@@ -814,6 +839,8 @@ ia arbitarily arbitrarily
 ia Arbitarily Arbitrarily
 ia arbitary arbitrary
 ia Arbitary Arbitrary
+ia arbritrary arbitrary
+ia Arbritrary Arbitrary
 ia archaelogists archaeologists
 ia Archaelogists Archaeologists
 ia archaelogy archaeology
@@ -972,6 +999,8 @@ ia asume assume
 ia Asume Assume
 ia aswell as well
 ia Aswell As well
+ia asymetry asymmetry
+ia Asymetry Asymmetry
 ia atain attain
 ia Atain Attain
 ia atempting attempting
@@ -1022,6 +1051,8 @@ ia attitide attitude
 ia Attitide Attitude
 ia attributred attributed
 ia Attributred Attributed
+ia attritube attribute
+ia Attritube Attribute
 ia attrocities atrocities
 ia Attrocities Atrocities
 ia audeince audience
@@ -1060,6 +1091,8 @@ ia automaticly automatically
 ia Automaticly Automatically
 ia automibile automobile
 ia Automibile Automobile
+ia automize automatize
+ia Automize Automatize
 ia automonomous autonomous
 ia Automonomous Autonomous
 ia autor author
@@ -1230,6 +1263,8 @@ ia beseiging besieging
 ia Beseiging Besieging
 ia betwen between
 ia Betwen Between
+ia betwenn between
+ia Betwenn Between
 ia beween between
 ia Beween Between
 ia bewteen between
@@ -1240,6 +1275,8 @@ ia bianry binary
 ia Bianry Binary
 ia bilateraly bilaterally
 ia Bilateraly Bilaterally
+ia bilatteral bilateral
+ia Bilatteral Bilateral
 ia billingualism bilingualism
 ia Billingualism Bilingualism
 ia binominal binomial
@@ -1250,6 +1287,8 @@ ia blaim blame
 ia Blaim Blame
 ia blaimed blamed
 ia Blaimed Blamed
+ia blanacing balancing
+ia Blanacing Balancing
 ia blessure blessing
 ia Blessure Blessing
 ia bodydbuilder bodybuilder
@@ -1402,6 +1441,8 @@ ia cartilidge cartilage
 ia Cartilidge Cartilage
 ia cartrige cartridge
 ia Cartrige Cartridge
+ia cas case
+ia Cas Case
 ia casette cassette
 ia Casette Cassette
 ia casion caisson
@@ -1528,6 +1569,8 @@ ia childbird childbirth
 ia Childbird Childbirth
 ia childen children
 ia Childen Children
+ia choosed chosen
+ia Choosed Chosen
 ia choosen chosen
 ia Choosen Chosen
 ia chracter character
@@ -1800,6 +1843,10 @@ ia compulsery compulsory
 ia Compulsery Compulsory
 ia computarized computerized
 ia Computarized Computerized
+ia computated computed
+ia Computated Computed
+ia computating computing
+ia Computating Computing
 ia comunicate communicate
 ia Comunicate Communicate
 ia comunity community
@@ -1846,6 +1893,8 @@ ia confidentally confidentially
 ia Confidentally Confidentially
 ia confids confides
 ia Confids Confides
+ia configuation configuration
+ia Configuation Configuration
 ia configureable configurable
 ia Configureable Configurable
 ia confortable comfortable
@@ -1860,6 +1909,8 @@ ia conjecutre conjecture
 ia Conjecutre Conjecture
 ia conjuction conjunction
 ia Conjuction Conjunction
+ia connexion connection
+ia Connexion Connection
 ia conotations connotations
 ia Conotations Connotations
 ia conquerd conquered
@@ -1938,6 +1989,8 @@ ia conspiracys conspiracies
 ia Conspiracys Conspiracies
 ia conspiriator conspirator
 ia Conspiriator Conspirator
+ia consquently consequently
+ia Consquently Consequently
 ia constaints constraints
 ia Constaints Constraints
 ia constanly constantly
@@ -1956,6 +2009,10 @@ ia constituion constitution
 ia Constituion Constitution
 ia constituional constitutional
 ia Constituional Constitutional
+ia constraitn constraint
+ia Constraitn Constraint
+ia constrast contrast
+ia Constrast Contrast
 ia consttruction construction
 ia Consttruction Construction
 ia constuction construction
@@ -1998,6 +2055,14 @@ ia continously continuously
 ia Continously Continuously
 ia continueing continuing
 ia Continueing Continuing
+ia contrained constrained
+ia Contrained Constrained
+ia contraint constraint
+ia Contraint Constraint
+ia contraints constraints
+ia Contraints Constraints
+ia contratry contrary
+ia Contratry Contrary
 ia contravercial controversial
 ia Contravercial Controversial
 ia contraversy controversy
@@ -2044,6 +2109,8 @@ ia conviced convinced
 ia Conviced Convinced
 ia convienient convenient
 ia Convienient Convenient
+ia coonectivity connectivity
+ia Coonectivity Connectivity
 ia coordiantion coordination
 ia Coordiantion Coordination
 ia coorperation cooperation
@@ -2056,6 +2123,8 @@ ia coputer computer
 ia Coputer Computer
 ia copywrite copyright
 ia Copywrite Copyright
+ia coresponding corresponding
+ia Coresponding Corresponding
 ia coridal cordial
 ia Coridal Cordial
 ia cornmitted committed
@@ -2430,6 +2499,8 @@ ia diferrent different
 ia Diferrent Different
 ia differant different
 ia Differant Different
+ia differece difference
+ia Differece Difference
 ia differentiatiations differentiations
 ia Differentiatiations Differentiations
 ia differnt different
@@ -2488,6 +2559,8 @@ ia disatisfied dissatisfied
 ia Disatisfied Dissatisfied
 ia disatrous disastrous
 ia Disatrous Disastrous
+ia discared discarded
+ia Discared Discarded
 ia discribe describe
 ia Discribe Describe
 ia discribed described
@@ -2634,10 +2707,14 @@ ia dreasm dreams
 ia Dreasm Dreams
 ia driectly directly
 ia Driectly Directly
+ia driping dripping
+ia Driping Dripping
 ia driveing driving
 ia Driveing Driving
 ia drnik drink
 ia Drnik Drink
+ia droping dropping
+ia Droping Dropping
 ia druming drumming
 ia Druming Drumming
 ia drummless drumless
@@ -2668,6 +2745,10 @@ ia eclispe eclipse
 ia Eclispe Eclipse
 ia ecomonic economic
 ia Ecomonic Economic
+ia effcient efficient
+ia Effcient Efficient
+ia effciently efficiently
+ia Effciently Efficiently
 ia effeciency efficiency
 ia Effeciency Efficiency
 ia effecient efficient
@@ -2840,6 +2921,8 @@ ia enlargment enlargement
 ia Enlargment Enlargement
 ia enlargments enlargements
 ia Enlargments Enlargements
+ia enoguh enough
+ia Enoguh Enough
 ia enourmous enormous
 ia Enourmous Enormous
 ia enourmously enormously
@@ -3122,6 +3205,8 @@ ia explaination explanation
 ia Explaination Explanation
 ia explaning explaining
 ia Explaning Explaining
+ia explicitely explicitly
+ia Explicitely Explicitly
 ia explictly explicitly
 ia Explictly Explicitly
 ia exploititive exploitative
@@ -3142,6 +3227,8 @@ ia extentions extensions
 ia Extentions Extensions
 ia extered exerted
 ia Extered Exerted
+ia exterme extreme
+ia Exterme Extreme
 ia extermist extremist
 ia Extermist Extremist
 ia extradiction extradition
@@ -3212,12 +3299,16 @@ ia fianite finite
 ia Fianite Finite
 ia fianlly finally
 ia Fianlly Finally
+ia ficititious fictitious
+ia Ficititious Fictitious
 ia ficticious fictitious
 ia Ficticious Fictitious
 ia fictious fictitious
 ia Fictious Fictitious
 ia fidn find
 ia Fidn Find
+ia fied field
+ia Fied Field
 ia fiel file
 ia Fiel File
 ia fiels files
@@ -3264,6 +3355,8 @@ ia fonetic phonetic
 ia Fonetic Phonetic
 ia fontrier fontier
 ia Fontrier Fontier
+ia foonote footnote
+ia Foonote Footnote
 ia foootball football
 ia Foootball Football
 ia forbad forbade
@@ -3343,10 +3436,20 @@ ia fufilled fulfilled
 ia Fufilled Fulfilled
 ia fulfiled fulfilled
 ia Fulfiled Fulfilled
+ia fullfil fulfill
+ia Fullfil Fulfill
+ia fullfiling fulfilling
+ia Fullfiling Fulfilling
+ia fullfiling fulfilling
+ia Fullfiling Fulfilling
 ia fullfill fulfill
 ia Fullfill Fulfill
 ia fullfilled fulfilled
 ia Fullfilled Fulfilled
+ia fullfills fulfills
+ia Fullfills Fulfills
+ia functionnal functional
+ia Functionnal Functional
 ia fundametal fundamental
 ia Fundametal Fundamental
 ia fundametals fundamentals
@@ -3427,6 +3530,8 @@ ia giveing giving
 ia Giveing Giving
 ia glight flight
 ia Glight Flight
+ia gloablly globally
+ia Gloablly Globally
 ia gnawwed gnawed
 ia Gnawwed Gnawed
 ia godess goddess
@@ -3495,6 +3600,8 @@ ia grwo grow
 ia Grwo Grow
 ia guage gauge
 ia Guage Gauge
+ia guaranted guaranteed
+ia Guaranted Guaranteed
 ia guarentee guarantee
 ia Guarentee Guarantee
 ia guarenteed guaranteed
@@ -3601,6 +3708,8 @@ ia heathy healthy
 ia Heathy Healthy
 ia heigher higher
 ia Heigher Higher
+ia heigth height
+ia Heigth Height
 ia heirarchy hierarchy
 ia Heirarchy Hierarchy
 ia heiroglyphics hieroglyphics
@@ -3683,6 +3792,10 @@ ia homogeneize homogenize
 ia Homogeneize Homogenize
 ia homogeneized homogenized
 ia Homogeneized Homogenized
+ia homogenenous homogeneous
+ia Homogenenous Homogeneous
+ia homogenous homogeneous
+ia Homogenous Homogeneous
 ia honory honorary
 ia Honory Honorary
 ia horrifing horrifying
@@ -3862,6 +3975,8 @@ ia imploys employs
 ia Imploys Employs
 ia importamt important
 ia Importamt Important
+ia impraticable impracticable
+ia Impraticable Impracticable
 ia imprioned imprisoned
 ia Imprioned Imprisoned
 ia imprisonned imprisoned
@@ -3956,6 +4071,8 @@ ia incunabla incunabula
 ia Incunabla Incunabula
 ia indecate indicate
 ia Indecate Indicate
+ia indeferently indifferently
+ia Indeferently Indifferently
 ia indefinately indefinitely
 ia Indefinately Indefinitely
 ia indefineable undefinable
@@ -3964,6 +4081,8 @@ ia indefinitly indefinitely
 ia Indefinitly Indefinitely
 ia indentical identical
 ia Indentical Identical
+ia indentify identify
+ia Indentify Identify
 ia indepedantly independently
 ia Indepedantly Independently
 ia indepedence independence
@@ -4166,6 +4285,8 @@ ia interrim interim
 ia Interrim Interim
 ia interrugum interregnum
 ia Interrugum Interregnum
+ia intersted interested
+ia Intersted Interested
 ia intertaining entertaining
 ia Intertaining Entertaining
 ia interupt interrupt
@@ -4210,6 +4331,8 @@ ia invertibrates invertebrates
 ia Invertibrates Invertebrates
 ia investingate investigate
 ia Investingate Investigate
+ia invisaged envisaged
+ia Invisaged Envisaged
 ia involvment involvement
 ia Involvment Involvement
 ia irelevent irrelevant
@@ -4272,6 +4395,8 @@ ia juristiction jurisdiction
 ia Juristiction Jurisdiction
 ia juristictions jurisdictions
 ia Juristictions Jurisdictions
+ia juste just
+ia Juste Just
 ia kindergarden kindergarten
 ia Kindergarden Kindergarten
 ia knive knife
@@ -4306,6 +4431,8 @@ ia largst largest
 ia Largst Largest
 ia lastr last
 ia Lastr Last
+ia lateraly laterally
+ia Lateraly Laterally
 ia lattitude latitude
 ia Lattitude Latitude
 ia launchs launches
@@ -4394,6 +4521,8 @@ ia likelyhood likelihood
 ia Likelyhood Likelihood
 ia likly likely
 ia Likly Likely
+ia linls links
+ia Linls Links
 ia liquify liquefy
 ia Liquify Liquefy
 ia liscense license
@@ -4508,6 +4637,8 @@ ia manufatured manufactured
 ia Manufatured Manufactured
 ia manufaturing manufacturing
 ia Manufaturing Manufacturing
+ia manuscrit manuscript
+ia Manuscrit Manuscript
 ia manuver maneuver
 ia Manuver Maneuver
 ia mariage marriage
@@ -4556,6 +4687,8 @@ ia meaninng meaning
 ia Meaninng Meaning
 ia mechandise merchandise
 ia Mechandise Merchandise
+ia mechanim mechanism
+ia Mechanim Mechanism
 ia medacine medicine
 ia Medacine Medicine
 ia medeival medieval
@@ -4763,6 +4896,8 @@ ia muder murder
 ia Muder Murder
 ia mudering murdering
 ia Mudering Murdering
+ia multiconstrained multi-constrained
+ia Multiconstrained Multi-constrained
 ia multicultralism multiculturalism
 ia Multicultralism Multiculturalism
 ia multipled multiplied
@@ -4787,6 +4922,12 @@ ia muscicians musicians
 ia Muscicians Musicians
 ia mutiliated mutilated
 ia Mutiliated Mutilated
+ia mutipl multiple
+ia Mutipl Multiple
+ia mutiplication multiplication
+ia Mutiplication Multiplication
+ia mutualy mutually
+ia Mutualy Mutually
 ia myraid myriad
 ia Myraid Myriad
 ia mysef myself
@@ -4825,6 +4966,10 @@ ia necesarily necessarily
 ia Necesarily Necessarily
 ia necesary necessary
 ia Necesary Necessary
+ia necessarly necessarily
+ia Necessarly Necessarily
+ia necesserily necessarily
+ia Necesserily Necessarily
 ia necessiate necessitate
 ia Necessiate Necessitate
 ia neglible negligible
@@ -4981,6 +5126,8 @@ ia ocassions occasions
 ia Ocassions Occasions
 ia occaison occasion
 ia Occaison Occasion
+ia occasionnally occasionally
+ia Occasionnally Occasionally
 ia occassion occasion
 ia Occassion Occasion
 ia occassional occasional
@@ -5055,6 +5202,8 @@ ia offred offered
 ia Offred Offered
 ia oftenly often
 ia Oftenly Often
+ia oftne often
+ia Oftne Often
 ia oging going
 ia Oging Going
 ia ohter other
@@ -5355,6 +5504,8 @@ ia personel personnel
 ia Personel Personnel
 ia personell personnel
 ia Personell Personnel
+ia personnal personal
+ia Personnal Personal
 ia personnell personnel
 ia Personnell Personnel
 ia persuded persuaded
@@ -5615,6 +5766,8 @@ ia prefering preferring
 ia Prefering Preferring
 ia preferrably preferably
 ia Preferrably Preferably
+ia prefixs prefixes
+ia Prefixs Prefixes
 ia pregancies pregnancies
 ia Pregancies Pregnancies
 ia preiod period
@@ -5727,6 +5880,8 @@ ia probaly probably
 ia Probaly Probably
 ia probelm problem
 ia Probelm Problem
+ia proble problem
+ia Proble Problem
 ia proccess process
 ia Proccess Process
 ia proccessing processing
@@ -5861,6 +6016,8 @@ ia provicial provincial
 ia Provicial Provincial
 ia provinicial provincial
 ia Provinicial Provincial
+ia provisionning provisioning
+ia Provisionning Provisioning
 ia provisiosn provision
 ia Provisiosn Provision
 ia provisonal provisional
@@ -5909,6 +6066,8 @@ ia quarantaine quarantine
 ia Quarantaine Quarantine
 ia quater quarter
 ia Quater Quarter
+ia queing queuing
+ia Queing Queuing
 ia questoin question
 ia Questoin Question
 ia questonable questionable
@@ -5935,6 +6094,8 @@ ia rarified rarefied
 ia Rarified Rarefied
 ia reaccurring recurring
 ia Reaccurring Recurring
+ia reachibility reachability
+ia Reachibility Reachability
 ia reacing reaching
 ia Reacing Reaching
 ia reacll recall
@@ -5953,6 +6114,8 @@ ia realyl really
 ia Realyl Really
 ia reasearch research
 ia Reasearch Research
+ia reasonnable reasonable
+ia Reasonnable Reasonable
 ia rebiulding rebuilding
 ia Rebiulding Rebuilding
 ia rebllions rebellions
@@ -6071,6 +6234,10 @@ ia recurrance recurrence
 ia Recurrance Recurrence
 ia rediculous ridiculous
 ia Rediculous Ridiculous
+ia redondancy redundancy
+ia Redondancy Redundancy
+ia redondant redundant
+ia Redondant Redundant
 ia reedeming redeeming
 ia Reedeming Redeeming
 ia reenforced reinforced
@@ -6141,6 +6308,8 @@ ia relatiopnship relationship
 ia Relatiopnship Relationship
 ia relativly relatively
 ia Relativly Relatively
+ia relectant reluctant
+ia Relectant Reluctant
 ia relected reelected
 ia Relected Reelected
 ia releive relieve
@@ -6215,6 +6384,8 @@ ia reoccurrence recurrence
 ia Reoccurrence Recurrence
 ia repatition repartition
 ia Repatition Repartition
+ia repect respect
+ia Repect Respect
 ia repentence repentance
 ia Repentence Repentance
 ia repentent repentant
@@ -6245,6 +6416,8 @@ ia reptition repetition
 ia Reptition Repetition
 ia requirment requirement
 ia Requirment Requirement
+ia requirments requirements
+ia Requirments Requirements
 ia requred required
 ia Requred Required
 ia resaurant restaurant
@@ -6271,6 +6444,8 @@ ia respectivly respectively
 ia Respectivly Respectively
 ia responce response
 ia Responce Response
+ia respondible responsible
+ia Respondible Responsible
 ia responibilities responsibilities
 ia Responibilities Responsibilities
 ia responisble responsible
@@ -6461,6 +6636,8 @@ ia scaricity scarcity
 ia Scaricity Scarcity
 ia scavanged scavenged
 ia Scavanged Scavenged
+ia sceptical skeptical 
+ia Sceptical Skeptical 
 ia schedual schedule
 ia Schedual Schedule
 ia scholarhip scholarship
@@ -6527,6 +6704,10 @@ ia sensure censure
 ia Sensure Censure
 ia sentance sentence
 ia Sentance Sentence
+ia sepcific specific
+ia Sepcific Specific
+ia sepcify specify
+ia Sepcify Specify
 ia seperate separate
 ia Seperate Separate
 ia seperated separated
@@ -6625,10 +6806,14 @@ ia simpley simply
 ia Simpley Simply
 ia simplier simpler
 ia Simplier Simpler
+ia simulatation simulation
+ia Simulatation Simulation
 ia simultanous simultaneous
 ia Simultanous Simultaneous
 ia simultanously simultaneously
 ia Simultanously Simultaneously
+ia simultion simulation
+ia Simultion Simulation
 ia sincerley sincerely
 ia Sincerley Sincerely
 ia skateing skating
@@ -6641,6 +6826,8 @@ ia smae same
 ia Smae Same
 ia smoe some
 ia Smoe Some
+ia sobor sober
+ia Sobor Sober
 ia socalism socialism
 ia Socalism Socialism
 ia socities societies
@@ -6728,8 +6915,12 @@ ia spectum spectrum
 ia Spectum Spectrum
 ia speices species
 ia Speices Species
+ia speicfic specific
+ia Speicfic Specific
 ia spermatozoan spermatozoon
 ia Spermatozoan Spermatozoon
+ia splitted split
+ia Splitted Split
 ia sponsered sponsored
 ia Sponsered Sponsored
 ia spontanous spontaneous
@@ -6742,6 +6933,8 @@ ia spriritual spiritual
 ia Spriritual Spiritual
 ia spritual spiritual
 ia Spritual Spiritual
+ia sqare square
+ia Sqare Square
 ia sqaure square
 ia Sqaure Square
 ia stablility stability
@@ -6750,6 +6943,8 @@ ia stainlees stainless
 ia Stainlees Stainless
 ia staion station
 ia Staion Station
+ia staisfying satisfying
+ia Staisfying Satisfying
 ia standars standards
 ia Standars Standards
 ia stange strange
@@ -6792,6 +6987,8 @@ ia stoyr story
 ia Stoyr Story
 ia stpo stop
 ia Stpo Stop
+ia straighforward straightforward
+ia Straighforward Straightforward
 ia strat start
 ia Strat Start
 ia stregth strength
@@ -6828,6 +7025,8 @@ ia stroy story
 ia Stroy Story
 ia structual structural
 ia Structual Structural
+ia strucuture structure
+ia Strucuture Structure
 ia struggel struggle
 ia Struggel Struggle
 ia stubborness stubbornness
@@ -7087,6 +7286,8 @@ ia swaers swears
 ia Swaers Swears
 ia swepth swept
 ia Swepth Swept
+ia swich switch
+ia Swich Switch
 ia swiming swimming
 ia Swiming Swimming
 ia syas says
@@ -7310,6 +7511,10 @@ ia timne time
 ia Timne Time
 ia tiome time
 ia Tiome Time
+ia tipical typical
+ia Tipical Typical
+ia tipically typically
+ia Tipically Typically
 ia tje the
 ia Tje The
 ia tjhe the
@@ -7364,12 +7569,18 @@ ia towrad toward
 ia Towrad Toward
 ia tpyo typo
 ia Tpyo Typo
+ia tradeoff trade-off
+ia Tradeoff Trade-off
 ia tradionally traditionally
 ia Tradionally Traditionally
 ia traditionaly traditionally
 ia Traditionaly Traditionally
 ia traditionnal traditional
 ia Traditionnal Traditional
+ia traditionnally traditionally
+ia Traditionnally Traditionally
+ia traditionnaly traditionally
+ia Traditionnaly Traditionally
 ia traditition tradition
 ia Traditition Tradition
 ia tradtionally traditionally
@@ -7402,6 +7613,10 @@ ia transfering transferring
 ia Transfering Transferring
 ia transformaton transformation
 ia Transformaton Transformation
+ia transimission transmission
+ia Transimission Transmission
+ia transimissions transmissions
+ia Transimissions Transmissions
 ia transistion transition
 ia Transistion Transition
 ia translater translator
@@ -7416,6 +7631,10 @@ ia tremelo tremolo
 ia Tremelo Tremolo
 ia tremelos tremolos
 ia Tremelos Tremolos
+ia trhough through
+ia Trhough Through
+ia trhoughout throughout
+ia Trhoughout Throughout
 ia triology trilogy
 ia Triology Trilogy
 ia troling trolling
@@ -7786,6 +8005,8 @@ ia Weas Was
 ia wednesday Wednesday
 ia wehn when
 ia Wehn When
+ia weigth weight
+ia Weigth Weight
 ia weild wield
 ia Weild Wield
 ia weilded wielded
@@ -7826,6 +8047,8 @@ ia wief wife
 ia Wief Wife
 ia wierd weird
 ia Wierd Weird
+ia wifi Wi-Fi
+ia Wifi Wi-Fi
 ia wih with
 ia Wih With
 ia wihch which
@@ -7836,6 +8059,8 @@ ia wille will
 ia Wille Will
 ia willingless willingness
 ia Willingless Willingness
+ia wimax WiMax
+ia Wimax WiMax
 ia windoes windows
 ia Windoes Windows
 ia wirting writing
