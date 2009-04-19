@@ -55,7 +55,6 @@ iabbrev Ihaca Ithaca
 iabbrev Israelies Israelis
 iabbrev Januray January
 iabbrev Japanes Japanese
-iabbrev Johanine Johannine
 iabbrev Jospeh Joseph
 iabbrev Juadaism Judaism
 iabbrev Juadism Judaism
@@ -109,8 +108,8 @@ iabbrev Skagerak Skagerrak
 iabbrev Tolkein Tolkien
 iabbrev Tuscon Tucson
 iabbrev Ukranian Ukrainian
-iabbrev UnitesStates UnitedStates
-iabbrev Unitesstates Unitedstates
+iabbrev UnitesStates United States
+iabbrev Unitesstates United states
 iabbrev abandonned abandoned
 iabbrev Abandonned Abandoned
 iabbrev aberation aberration
@@ -489,7 +488,7 @@ iabbrev airporta airports
 iabbrev Airporta Airports
 iabbrev airrcraft aircraft
 iabbrev Airrcraft Aircraft
-iabbrev aisian asian
+iabbrev aisian Asian
 iabbrev Aisian Asian
 iabbrev albiet albeit
 iabbrev Albiet Albeit
@@ -701,6 +700,8 @@ iabbrev anyother any other
 iabbrev Anyother Any other
 iabbrev anytying anything
 iabbrev Anytying Anything
+iabbrev apalling appalling
+iabbrev Apalling Appalling
 iabbrev aparent apparent
 iabbrev Aparent Apparent
 iabbrev aparment apartment
@@ -967,9 +968,9 @@ iabbrev atempting attempting
 iabbrev Atempting Attempting
 iabbrev atheistical atheistic
 iabbrev Atheistical Atheistic
-iabbrev athenean athenian
+iabbrev athenean Athenian
 iabbrev Athenean Athenian
-iabbrev atheneans athenians
+iabbrev atheneans Athenians
 iabbrev Atheneans Athenians
 iabbrev athiesm atheism
 iabbrev Athiesm Atheism
@@ -1181,7 +1182,7 @@ iabbrev beleives believes
 iabbrev Beleives Believes
 iabbrev beleiving believing
 iabbrev Beleiving Believing
-iabbrev beligum belgium
+iabbrev beligum Belgium
 iabbrev Beligum Belgium
 iabbrev belive believe
 iabbrev Belive Believe
@@ -3631,6 +3632,8 @@ iabbrev historicians historians
 iabbrev Historicians Historians
 iabbrev hitsingles hit singles
 iabbrev Hitsingles Hit singles
+iabbrev hoem home
+iabbrev Hoem Home
 iabbrev holliday holiday
 iabbrev Holliday Holiday
 iabbrev homestate home state
@@ -3719,6 +3722,8 @@ iabbrev hypocrit hypocrite
 iabbrev Hypocrit Hypocrite
 iabbrev hypocrits hypocrites
 iabbrev Hypocrits Hypocrites
+iabbrev i I
+iabbrev I I
 iabbrev iconclastic iconoclastic
 iabbrev Iconclastic Iconoclastic
 iabbrev idaeidae idea
@@ -4817,6 +4822,8 @@ iabbrev neverthless nevertheless
 iabbrev Neverthless Nevertheless
 iabbrev newletters newsletters
 iabbrev Newletters Newsletters
+iabbrev ni in
+iabbrev Ni In
 iabbrev nickle nickel
 iabbrev Nickle Nickel
 iabbrev nightfa;; nightfall
@@ -5115,6 +5122,12 @@ iabbrev orignally originally
 iabbrev Orignally Originally
 iabbrev orignially originally
 iabbrev Orignially Originally
+iabbrev osme some
+iabbrev Osme Some
+iabbrev osmething something
+iabbrev Osmething Something
+iabbrev ot to
+iabbrev Ot To
 iabbrev otehr other
 iabbrev Otehr Other
 iabbrev ouevre oeuvre
@@ -6347,6 +6360,8 @@ iabbrev rininging ringing
 iabbrev Rininging Ringing
 iabbrev rised rose
 iabbrev Rised Rose
+iabbrev ro or
+iabbrev Ro Or
 iabbrev rococco rococo
 iabbrev Rococco Rococo
 iabbrev rocord record
@@ -6567,6 +6582,8 @@ iabbrev shreak shriek
 iabbrev Shreak Shriek
 iabbrev shrinked shrunk
 iabbrev Shrinked Shrunk
+iabbrev si is
+iabbrev Si Is
 iabbrev sicne since
 iabbrev Sicne Since
 iabbrev sideral sidereal
@@ -6665,6 +6682,8 @@ iabbrev soluable soluble
 iabbrev Soluable Soluble
 iabbrev somene someone
 iabbrev Somene Someone
+iabbrev somethign something
+iabbrev Somethign Something
 iabbrev somtimes sometimes
 iabbrev Somtimes Sometimes
 iabbrev somwhere somewhere
@@ -6837,6 +6856,8 @@ iabbrev strenghtened strengthened
 iabbrev Strenghtened Strengthened
 iabbrev strenghtening strengthening
 iabbrev Strenghtening Strengthening
+iabbrev strenghts strengths
+iabbrev Strenghts Strengths
 iabbrev strengtened strengthened
 iabbrev Strengtened Strengthened
 iabbrev strenous strenuous
@@ -7283,6 +7304,8 @@ iabbrev thikning thinking
 iabbrev Thikning Thinking
 iabbrev thikns thinks
 iabbrev Thikns Thinks
+iabbrev thinkin thinking
+iabbrev Thinkin Thinking
 iabbrev thiunk think
 iabbrev Thiunk Think
 iabbrev thn then
@@ -7829,8 +7852,6 @@ iabbrev vyre very
 iabbrev Vyre Very
 iabbrev waht what
 iabbrev Waht What
-iabbrev wanna want to
-iabbrev Wanna Want to
 iabbrev warantee warranty
 iabbrev Warantee Warranty
 iabbrev wardobe wardrobe
@@ -7949,6 +7970,8 @@ iabbrev worls world
 iabbrev Worls World
 iabbrev worstened worsened
 iabbrev Worstened Worsened
+iabbrev worte wrote
+iabbrev Worte Wrote
 iabbrev woudl would
 iabbrev Woudl Would
 iabbrev wresters wrestlers

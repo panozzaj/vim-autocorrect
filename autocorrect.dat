@@ -55,7 +55,6 @@ Ihaca->Ithaca
 Israelies->Israelis
 Januray->January
 Japanes->Japanese
-Johanine->Johannine
 Jospeh->Joseph
 Juadaism->Judaism
 Juadism->Judaism
@@ -109,7 +108,7 @@ Skagerak->Skagerrak
 Tolkein->Tolkien
 Tuscon->Tucson
 Ukranian->Ukrainian
-UnitesStates->UnitedStates
+UnitesStates->United States
 abandonned->abandoned
 aberation->aberration
 abilties->abilities
@@ -299,7 +298,7 @@ aircaft->aircraft
 aircrafts->aircraft
 airporta->airports
 airrcraft->aircraft
-aisian->asian
+aisian->Asian
 albiet->albeit
 alchohol->alcohol
 alchoholic->alcoholic
@@ -405,6 +404,7 @@ anwsered->answered
 anyhwere->anywhere
 anyother->any other
 anytying->anything
+apalling->appalling
 aparent->apparent
 aparment->apartment
 apenines->apennines
@@ -538,8 +538,8 @@ aswell->as well
 atain->attain
 atempting->attempting
 atheistical->atheistic
-athenean->athenian
-atheneans->athenians
+athenean->Athenian
+atheneans->Athenians
 athiesm->atheism
 athiest->atheist
 atorney->attorney
@@ -645,7 +645,7 @@ beleive->believe
 beleived->believed
 beleives->believes
 beleiving->believing
-beligum->belgium
+beligum->Belgium
 belive->believe
 belived->believed
 belives->believes
@@ -1870,6 +1870,7 @@ hismelf->himself
 histocompatability->histocompatibility
 historicians->historians
 hitsingles->hit singles
+hoem->home
 holliday->holiday
 homestate->home state
 homogeneize->homogenize
@@ -1914,6 +1915,7 @@ hypocrasy->hypocrisy
 hypocricy->hypocrisy
 hypocrit->hypocrite
 hypocrits->hypocrites
+i->I
 iconclastic->iconoclastic
 idaeidae->idea
 idaes->ideas
@@ -2463,6 +2465,7 @@ nessecary->necessary
 nestin->nesting
 neverthless->nevertheless
 newletters->newsletters
+ni->in
 nickle->nickel
 nightfa;;->nightfall
 nightime->nighttime
@@ -2612,6 +2615,9 @@ originnally->originally
 origional->original
 orignally->originally
 orignially->originally
+osme->some
+osmething->something
+ot->to
 otehr->other
 ouevre->oeuvre
 oustanding->outstanding
@@ -3228,6 +3234,7 @@ rhytmic->rhythmic
 rigourous->rigorous
 rininging->ringing
 rised->rose
+ro->or
 rococco->rococo
 rocord->record
 roomate->roommate
@@ -3338,6 +3345,7 @@ shoudln->should
 shouldnt->shouldn't
 shreak->shriek
 shrinked->shrunk
+si->is
 sicne->since
 sideral->sidereal
 sieze->seize
@@ -3387,6 +3395,7 @@ soliders->soldiers
 soliliquy->soliloquy
 soluable->soluble
 somene->someone
+somethign->something
 somtimes->sometimes
 somwhere->somewhere
 sophicated->sophisticated
@@ -3473,6 +3482,7 @@ strenght->strength
 strenghten->strengthen
 strenghtened->strengthened
 strenghtening->strengthening
+strenghts->strengths
 strengtened->strengthened
 strenous->strenuous
 strictist->strictest
@@ -3696,6 +3706,7 @@ thigsn->things
 thikn->think
 thikning->thinking
 thikns->thinks
+thinkin->thinking
 thiunk->think
 thn->then
 thna->than
@@ -3969,7 +3980,6 @@ vulnerablility->vulnerability
 vyer->very
 vyre->very
 waht->what
-wanna->want to
 warantee->warranty
 wardobe->wardrobe
 warrent->warrant
@@ -4029,6 +4039,7 @@ wordlwide->worldwide
 workststion->workstation
 worls->world
 worstened->worsened
+worte->wrote
 woudl->would
 wresters->wrestlers
 wriet->write
