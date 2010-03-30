@@ -125,6 +125,8 @@ ia abondoning abandoning
 ia Abondoning Abandoning
 ia abondons abandons
 ia Abondons Abandons
+ia abbout about
+ia Abbout About
 ia aborigene aborigine
 ia Aborigene Aborigine
 ia abortificant abortifacient
@@ -645,6 +647,8 @@ ia amoung among
 ia Amoung Among
 ia amoungst amongst
 ia Amoungst Amongst
+ia amoutn amount
+ia Amoutn Amount
 ia amung among
 ia Amung Among
 ia analagous analogous
@@ -807,6 +811,7 @@ ia approximitely approximately
 ia Approximitely Approximately
 ia aprehensive apprehensive
 ia Aprehensive Apprehensive
+ia april April
 ia apropriate appropriate
 ia Apropriate Appropriate
 ia aproximate approximate
@@ -1001,6 +1006,8 @@ ia aswell as well
 ia Aswell As well
 ia asymetry asymmetry
 ia Asymetry Asymmetry
+ia asymettric asymmetric
+ia Asymettric Asymmetric
 ia atain attain
 ia Atain Attain
 ia atempting attempting
@@ -1059,6 +1066,7 @@ ia audeince audience
 ia Audeince Audience
 ia audiance audience
 ia Audiance Audience
+ia august August
 ia auromated automated
 ia Auromated Automated
 ia austrailia Australia
@@ -1353,6 +1361,8 @@ ia bve be
 ia Bve Be
 ia cacuses caucuses
 ia Cacuses Caucuses
+ia caffiene caffeine
+ia Caffiene Caffeine
 ia cahracters characters
 ia Cahracters Characters
 ia calaber caliber
@@ -1361,6 +1371,10 @@ ia calander calendar
 ia Calander Calendar
 ia calculs calculus
 ia Calculs Calculus
+ia caliberate calibrate 
+ia Caliberate Calibrate 
+ia caliberation calibration 
+ia Caliberation Calibration 
 ia caligraphy calligraphy
 ia Caligraphy Calligraphy
 ia caluclate calculate
@@ -2255,6 +2269,7 @@ ia danceing dancing
 ia Danceing Dancing
 ia debateable debatable
 ia Debateable Debatable
+ia december December
 ia decendant descendant
 ia Decendant Descendant
 ia decendants descendants
@@ -2513,6 +2528,10 @@ ia dificulties difficulties
 ia Dificulties Difficulties
 ia dificulty difficulty
 ia Dificulty Difficulty
+ia dilligence diligence
+ia Dilligence Diligence
+ia dilligent diligent
+ia Dilligent Diligent
 ia dimenions dimensions
 ia Dimenions Dimensions
 ia dimention dimension
@@ -3287,6 +3306,7 @@ ia faught fought
 ia Faught Fought
 ia feasable feasible
 ia Feasable Feasible
+ia february February
 ia fedreally federally
 ia Fedreally Federally
 ia feild field
@@ -4369,6 +4389,7 @@ ia iwll will
 ia Iwll Will
 ia iwth with
 ia Iwth With
+ia january January
 ia jaques jacques
 ia Jaques Jacques
 ia jeapardy jeopardy
@@ -4391,6 +4412,8 @@ ia judisuary judiciary
 ia Judisuary Judiciary
 ia juducial judicial
 ia Juducial Judicial
+ia july July
+ia june June
 ia juristiction jurisdiction
 ia Juristiction Jurisdiction
 ia juristictions jurisdictions
@@ -4835,6 +4858,8 @@ ia mkaing making
 ia Mkaing Making
 ia mkea make
 ia Mkea Make
+ia mnay many
+ia Mnay Many
 ia moderm modem
 ia Moderm Modem
 ia modle model
@@ -5060,6 +5085,7 @@ ia notwhithstanding notwithstanding
 ia Notwhithstanding Notwithstanding
 ia noveau nouveau
 ia Noveau Nouveau
+ia november November
 ia nowdays nowadays
 ia Nowdays Nowadays
 ia nowe now
@@ -5126,6 +5152,8 @@ ia ocassions occasions
 ia Ocassions Occasions
 ia occaison occasion
 ia Occaison Occasion
+ia occaisonally occasionally
+ia Occaisonally Occasionally
 ia occasionnally occasionally
 ia Occasionnally Occasionally
 ia occassion occasion
@@ -5162,12 +5190,15 @@ ia occurrance occurrence
 ia Occurrance Occurrence
 ia occurrances occurrences
 ia Occurrances Occurrences
+ia october October
 ia octohedra octahedra
 ia Octohedra Octahedra
 ia octohedral octahedral
 ia Octohedral Octahedral
 ia octohedron octahedron
 ia Octohedron Octahedron
+ia oculd could
+ia Oculd Could
 ia ocuntries countries
 ia Ocuntries Countries
 ia ocuntry country
@@ -5316,6 +5347,8 @@ ia orignally originally
 ia Orignally Originally
 ia orignially originally
 ia Orignially Originally
+ia os so
+ia Os So
 ia osme some
 ia Osme Some
 ia osmething something
@@ -5504,6 +5537,8 @@ ia personel personnel
 ia Personel Personnel
 ia personell personnel
 ia Personell Personnel
+ia personelle personnel
+ia Personelle Personnel
 ia personnal personal
 ia Personnal Personal
 ia personnell personnel
@@ -6724,6 +6759,7 @@ ia seperatism separatism
 ia Seperatism Separatism
 ia seperatist separatist
 ia Seperatist Separatist
+ia september September
 ia sergent sergeant
 ia Sergent Sergeant
 ia settelement settlement
@@ -6850,6 +6886,8 @@ ia soliliquy soliloquy
 ia Soliliquy Soliloquy
 ia soluable soluble
 ia Soluable Soluble
+ia somehting something
+ia Somehting Something
 ia somene someone
 ia Somene Someone
 ia somethign something
@@ -7484,8 +7522,6 @@ ia throrough thorough
 ia Throrough Thorough
 ia throughly thoroughly
 ia Throughly Thoroughly
-ia throught thought
-ia Throught Thought
 ia througout throughout
 ia Througout Throughout
 ia thru through
@@ -7569,8 +7605,6 @@ ia towrad toward
 ia Towrad Toward
 ia tpyo typo
 ia Tpyo Typo
-ia tradeoff trade-off
-ia Tradeoff Trade-off
 ia tradionally traditionally
 ia Tradionally Traditionally
 ia traditionaly traditionally
@@ -7934,6 +7968,8 @@ ia vetween between
 ia Vetween Between
 ia veyr very
 ia Veyr Very
+ia vidoe video
+ia Vidoe Video
 ia vigilence vigilance
 ia Vigilence Vigilance
 ia vigourous vigorous
@@ -8011,6 +8047,8 @@ ia weild wield
 ia Weild Wield
 ia weilded wielded
 ia Weilded Wielded
+ia wekeend weekend
+ia Wekeend Weekend
 ia wendsay Wednesday
 ia Wendsay Wednesday
 ia wensday Wednesday
@@ -8141,11 +8179,3 @@ ia yeras years
 ia Yeras Years
 ia yersa years
 ia Yersa Years
-ia youself yourself
-ia Youself Yourself
-ia ytou you
-ia Ytou You
-ia yuo you
-ia Yuo You
-ia yuor your
-ia Yuor Your

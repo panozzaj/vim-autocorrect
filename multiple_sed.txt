@@ -97,3 +97,85 @@ s/ stated of the art/ state of the art/g;
 s/ space-complexity/ space complexity/g;
 s/tie breaking rule/tie-breaking rule/g;
 s/ time-complexity/ time complexity/g;
+
+# from autocorrect.ahk
+# accents
+::a bas::à bas
+::a la::à la
+::ao dai::ào dái
+::ancien regime::Ancien Régime
+::coup d'etat::coup d'état
+::coup d'etats::coup d'états
+::coup de tat::coup d'état
+::coup de tats::coup d'états
+::coup de grace::coup de grâce
+::creme brulee::crème brûlée
+::creme brulees::crème brûlées
+::creme caramel::crème caramel
+::creme caramels::crème caramels
+::creme de cacao::crème de cacao
+::creme de menthe::crème de menthe
+::deja vu::déjà vu
+::el nino::El Niño
+::fin de siecle::fin de siècle
+::folie a deux::folie à deux
+::folies a deux::folies à deux
+::langue d'oil::langue d'oïl
+::maitre d'hotel::maître d'hôtel
+::menage a trois::ménage à trois
+::menages a trois::ménages à trois
+::mobius strip::Möbius strip
+::mobius strips::Möbius strips
+::motley crue::Mötley Crüe
+::neufchatel cheese::Neufchâtel cheese
+::nez perce::Nez Percé
+::número uno::número uno
+::objet trouve::objet trouvé
+::objets trouve::objets trouvé
+::opera bouffe::opéra bouffe
+::operas bouffe::opéras bouffe
+::opera comique::opéra comique
+::operas comique::opéras comique
+::piece de resistance::pièce de résistance
+::pina colada::Piña Colada
+::pina coladas::Piña Coladas
+::raison d'etre::raison d'être
+::roman a clef::roman à clef
+::sinn fein::Sinn Féin
+::ventre a terre::ventre à terre
+::vin rose::vin rosé
+::vins rose::vins rosé
+::vis a vis::vis à vis
+
+# ambiguous
+::a gogo::à gogo
+
+
+# random from autocorrect.ahk
+againstt he->against the
+andt he->and the
+askt he->ask the
+byt he->by the
+can't of->can't have
+could of->could have
+doe snot->does not ; *could* be legitimate... but very unlikely!
+don't no->don't know
+fromt he->from the
+int he->in the
+i snot->is not
+its a->it's a
+it snot->it's not
+it' snot->it's not
+iits the->it's the
+its the->it's the
+let's him->lets him
+let's it->lets it
+may of->may have
+might of->might have
+must of->must have
+oft he->of the ; Could be legitimate in poetry, but more usually a typo.
+ont he->on the
+saidt he->said the
+should of->should have
+silicone chip->silicon chip
+sot hat->so that

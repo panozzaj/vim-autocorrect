@@ -117,6 +117,7 @@ abondon->abandon
 abondoned->abandoned
 abondoning->abandoning
 abondons->abandons
+abbout->about
 aborigene->aborigine
 abortificant->abortifacient
 abreviated->abbreviated
@@ -377,6 +378,7 @@ ammount->amount
 ammused->amused
 amoung->among
 amoungst->amongst
+amoutn->amount
 amung->among
 analagous->analogous
 analitic->analytic
@@ -458,6 +460,7 @@ approxamately->approximately
 approxiately->approximately
 approximitely->approximately
 aprehensive->apprehensive
+april->April
 apropriate->appropriate
 aproximate->approximate
 aproximately->approximately
@@ -555,6 +558,7 @@ asthetically->aesthetically
 asume->assume
 aswell->as well
 asymetry->asymmetry
+asymettric->asymmetric
 atain->attain
 atempting->attempting
 atheistical->atheistic
@@ -584,6 +588,7 @@ attritube->attribute
 attrocities->atrocities
 audeince->audience
 audiance->audience
+august->August
 auromated->automated
 austrailia->Australia
 austrailian->Australian
@@ -731,10 +736,13 @@ busness->business
 bussiness->business
 bve->be
 cacuses->caucuses
+caffiene->caffeine
 cahracters->characters
 calaber->caliber
 calander->calendar
 calculs->calculus
+caliberate->calibrate 
+caliberation->calibration 
 caligraphy->calligraphy
 caluclate->calculate
 caluclated->calculated
@@ -1182,6 +1190,7 @@ dalmation->dalmatian
 damenor->demeanor
 danceing->dancing
 debateable->debatable
+december->December
 decendant->descendant
 decendants->descendants
 decendent->descendant
@@ -1311,6 +1320,8 @@ difficulity->difficulty
 diffrent->different
 dificulties->difficulties
 dificulty->difficulty
+dilligence->diligence
+dilligent->diligent
 dimenions->dimensions
 dimention->dimension
 dimentional->dimensional
@@ -1698,6 +1709,7 @@ fanatism->fanaticism
 fatc->fact
 faught->fought
 feasable->feasible
+february->February
 fedreally->federally
 feild->field
 feromone->pheromone
@@ -2240,6 +2252,7 @@ issueing->issuing
 itnroduced->introduced
 iwll->will
 iwth->with
+january->January
 jaques->jacques
 jeapardy->jeopardy
 jewllery->jewelery
@@ -2251,6 +2264,8 @@ jsut->just
 judical->judicial
 judisuary->judiciary
 juducial->judicial
+july->July
+june->June
 juristiction->jurisdiction
 juristictions->jurisdictions
 juste->just
@@ -2473,6 +2488,7 @@ mkae->make
 mkaes->makes
 mkaing->making
 mkea->make
+mnay->many
 moderm->modem
 modle->model
 moent->moment
@@ -2586,6 +2602,7 @@ noticeing->noticing
 noticible->noticeable
 notwhithstanding->notwithstanding
 noveau->nouveau
+november->November
 nowdays->nowadays
 nowe->now
 nto->not
@@ -2619,6 +2636,7 @@ ocassionaly->occasionally
 ocassioned->occasioned
 ocassions->occasions
 occaison->occasion
+occaisonally->occasionally
 occasionnally->occasionally
 occassion->occasion
 occassional->occasional
@@ -2637,9 +2655,11 @@ occuring->occurring
 occurr->occur
 occurrance->occurrence
 occurrances->occurrences
+october->October
 octohedra->octahedra
 octohedral->octahedral
 octohedron->octahedron
+oculd->could
 ocuntries->countries
 ocuntry->country
 ocur->occur
@@ -2714,6 +2734,7 @@ originnally->originally
 origional->original
 orignally->originally
 orignially->originally
+os->so
 osme->some
 osmething->something
 ot->to
@@ -2808,6 +2829,7 @@ persistance->persistence
 persistant->persistent
 personel->personnel
 personell->personnel
+personelle->personnel
 personnal->personal
 personnell->personnel
 persuded->persuaded
@@ -3419,6 +3441,7 @@ seperating->separating
 seperation->separation
 seperatism->separatism
 seperatist->separatist
+september->September
 sergent->sergeant
 settelement->settlement
 settlment->settlement
@@ -3482,6 +3505,7 @@ soley->solely
 soliders->soldiers
 soliliquy->soliloquy
 soluable->soluble
+somehting->something
 somene->someone
 somethign->something
 somtimes->sometimes
@@ -3800,7 +3824,6 @@ threshhold->threshold
 thrid->third
 throrough->thorough
 throughly->thoroughly
-throught->thought
 througout->throughout
 thru->through
 thsi->this
@@ -3843,7 +3866,6 @@ tourch->touch
 towords->towards
 towrad->toward
 tpyo->typo
-tradeoff->trade-off
 tradionally->traditionally
 traditionaly->traditionally
 traditionnal->traditional
@@ -4026,6 +4048,7 @@ versitilaty->versatility
 versitlity->versatility
 vetween->between
 veyr->very
+vidoe->video
 vigilence->vigilance
 vigourous->vigorous
 villian->villain
@@ -4065,6 +4088,7 @@ wehn->when
 weigth->weight
 weild->wield
 weilded->wielded
+wekeend->weekend
 wendsay->Wednesday
 wensday->Wednesday
 wereabouts->whereabouts
@@ -4130,7 +4154,3 @@ yeilding->yielding
 yera->year
 yeras->years
 yersa->years
-youself->yourself
-ytou->you
-yuo->you
-yuor->your

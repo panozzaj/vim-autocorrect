@@ -1,0 +1,531 @@
+# Here are some changes that I pulled from another project that might be useful
+# some day.  Right now they don't fit into the scheme I'm using or that Vim
+# might be able to autocorrect, but figured that I would include these.
+
+;------------------------------------------------------------------------------
+; Accented English words, from, amongst others,
+; http://en.wikipedia.org/wiki/List_of_English_words_with_diacritics
+; I have included all the ones compatible with reasonable codepages, and placed
+; those that may often not be accented either from a clash with an unaccented 
+; word (resume), or because the unaccented version is now common (cafe).
+;------------------------------------------------------------------------------
+aesop->Æsop
+angstrom->Ångström
+angstroms->Ångströms
+anime->animé
+animes->animés
+apertif->apértif
+apertifs->apértifs
+applique->appliqué
+appliques->appliqués
+apres->après
+arete->arête
+attache->attaché
+attaches->attachés
+auto-da-fe->auto-da-fé
+belle epoque->belle époque
+bete noire->bête noire
+betise->bêtise
+Bjorn->Bjørn
+blase->blasé
+boite->boîte
+boutonniere->boutonnière
+canape->canapé
+canapes->canapés
+celebre->célèbre
+celebres->célèbres
+chaines->chaînés
+cinema verite->cinéma vérité
+cinemas verite->cinémas vérité
+cinema verites->cinéma vérités
+champs-elysees->Champs-Élysées
+charge d'affaires->chargé d'affaires
+chateau->château
+chateaux->châteaux
+chateaus->châteaus
+cliche->cliché
+cliched->clichéd
+cliches->clichés
+cloisonne->cloisonné
+consomme->consommé
+consommes->consommés
+communique->communiqué
+communiques->communiqués
+confrere->confrère
+confreres->confrères
+cortege->cortège
+corteges->cortèges
+creche->crèche
+creches->crèches
+coulee->coulée
+coulees->coulées
+crepe->crêpe
+crepes->crêpes
+creusa->Creüsa
+crouton->croûton
+croutons->croûtons
+crudites->crudités
+curacao->curaçao
+dais->daïs
+daises->daïses
+debacle->débâcle
+debacles->débâcles
+debutante->débutante
+debutants->débutants
+declasse->déclassé
+decolletage->décolletage
+decollete->décolleté
+decor->décor
+decors->décors
+decoupage->découpage
+degage->dégagé
+demode->démodé
+denoument->dénoument
+derailleur->dérailleur
+derriere->derrière
+deshabille->déshabillé
+detente->détente
+diamante->diamanté
+discotheque->discothèque
+discotheques->discothèques
+divorcee->divorcée
+divorcees->divorcées
+doppelganger->doppelgänger
+doppelgangers->doppelgängers
+eclair->éclair
+eclairs->éclairs
+eclat->éclat
+elan->élan
+emigre->émigré
+emigres->émigrés
+entree->entrée
+entrees->entrées
+entrepot->entrepôt
+entrecote->entrecôte
+epee->épée
+epees->épées
+etouffee->étouffée
+facade->façade
+facades->façades
+fete->fête
+fetes->fêtes
+faience->faïence
+fiance->fiancé
+fiances->fiancés
+fiancee->fiancée
+fiancees->fiancées
+filmjolk->filmjölk
+flambe->flambé
+flambes->flambés
+fleche->flèche
+Fohn wind->Föhn wind
+fouette->fouetté
+frappe->frappé
+frappes->frappés
+garcon->garçon
+garcons->garçons
+gateau->gâteau
+gateaus->gâteaus
+gateaux->gâteaux
+gemutlichkeit->gemütlichkeit
+glace->glacé
+glogg->glögg
+gewurztraminer->Gewürztraminer
+gotterdammerung->Götterdämmerung
+grafenberg spot->Gräfenberg spot
+habitue->habitué
+ingenue->ingénue
+jager->jäger
+jalapeno->jalapeño
+jalapenos->jalapeños
+jardiniere->jardinière
+krouzek->kroužek
+kummel->kümmel
+kaldolmar->kåldolmar
+landler->ländler
+la nina->La Niña
+litterateur->littérateur
+lycee->lycée
+macedoine->macédoine
+macrame->macramé
+malaguena->malagueña
+manana->mañana
+manege->manège
+manque->manqué
+materiel->matériel
+matinee->matinée
+matinees->matinées
+melange->mélange
+melee->mêlée
+melees->mêlées
+mesalliance->mésalliance
+metier->métier
+minaudiere->minaudière
+moire->moiré
+moireing->moiréing
+moires->moirés
+motorhead->Motörhead
+naif->naïf
+naifs->naïfs
+naive->naïve
+naiver->naïver
+naives->naïves
+naivete->naïveté
+nee->née
+negligee->negligée
+negligees->negligées
+noël->Noël
+noëls->Noëls
+ombre->ombré
+ombres->ombrés
+omerta->omertà
+outre->outré
+papier-mache->papier-mâché
+passe->passé
+pied-a-terre->pied-à-terre
+plisse->plissé
+pinata->piñata
+pinatas->piñatas
+pinon->piñon
+pinons->piñons
+pirana->piraña
+pique->piqué
+piqued->piquéd
+più->più
+plie->plié
+precis->précis
+polsa->pölsa
+pret-a-porter->prêt-à-porter
+protoge->protégé
+protege->protégé
+proteged->protégéd
+proteges->protégés
+protegee->protégée
+protegees->protégées
+protegeed->protégéed
+puree->purée
+pureed->puréed
+purees->purées
+Quebecois->Québécois
+recherche->recherché
+reclame->réclame
+résume->résumé
+resumé->résumé
+résumes->résumés
+resumés->résumés
+retrousse->retroussé
+risque->risqué
+riviere->rivière
+roue->roué
+saute->sauté
+sauted->sautéd
+seance->séance
+seances->séances
+senor->señor
+senors->señors
+senora->señora
+senoras->señoras
+senorita->señorita
+senoritas->señoritas
+smorgasbord->smörgåsbord
+smorgasbords->smörgåsbords
+smorgastarta->smörgåstårta
+soigne->soigné
+soiree->soirée
+soireed->soiréed
+soirees->soirées
+souffle->soufflé
+souffles->soufflés
+soupcon->soupçon
+soupcons->soupçons
+surstromming->surströmming
+tete-a-tete->tête-à-tête
+tete-a-tetes->tête-à-têtes
+touche->touché
+tourtiere->tourtière
+ubermensch->Übermensch
+ubermensches->Übermensches
+vicuna->vicuña
+vis-a-vis->vis-à-vis
+voila->voilà 
+
+# note that these are not in the -> format
+;------------------------------------------------------------------------------
+; Ambiguous entries.  Where desired, pick the one that's best for you, edit,
+; and move into the above list or, preferably, the autocorrect user file.
+;------------------------------------------------------------------------------
+/*
+::(c)::©
+::(r)::®
+::(tm)::™
+::abbe::abbé
+::accension::accession, ascension
+::achive::achieve, archive
+::achived::achieved, archived
+::ackward::awkward, backward
+::addres::address, adders
+::adress::address, A dress
+::adressing::addressing, dressing
+::afair::affair, afar, Afar (African place), a fair, acronym "as far as I recall"
+::affort::afford, effort
+::agin::again, a gin, aging
+::agina::again, angina
+::ago-go::àgo-go
+::aledge::allege, a ledge
+::alot::a lot, allot
+::alusion::allusion, illusion
+::amature::armature, amateur
+::anu::añu
+::anual::annual, anal
+::anual::annual, manual
+::aparent::apparent, a parent
+::apon::upon, apron
+::appealling::appealing, appalling
+::archaoelogy::archeology, archaeology
+::archaology::archeology, archaeology
+::archeaologist::archeologist, archaeologist
+::archeaologists::archeologists, archaeologists
+::assosication::assassination, association
+::attaindre::attainder, attained
+::attened::attended or attend
+::baout::about, bout
+::beggin::begin, begging
+::behavour::behavior, behaviour
+::belives::believes, beliefs
+::boaut::bout, boat, about
+::Bon::Bön
+::Bootes::Boötes
+::bric-a-brac::bric-à-brac
+::buring::burying, burning, burin, during
+::busineses::business, businesses
+::cafe::café
+::calaber::caliber, calibre
+::calander::calendar, calender, colander
+::cancelled::canceled  ; commonwealth vs US
+::cancelling::canceling  ; commonwealth vs US
+::canon::cañon
+::cant::cannot, can not, can't
+::carcas::carcass, Caracas
+::carmel::caramel, carmel-by-the-sea
+::Cataline::Catiline, Catalina
+::censur::censor, censure
+::ceratin::certain, keratin
+::cervial::cervical, servile, serval
+::chasr::chaser, chase
+::clera::clear, sclera
+::comander::commander, commandeer
+::competion::competition, completion
+::continuum::continuüm
+::coopt::coöpt
+::coordinat::coördinat
+::coorperation::cooperation, corporation
+::coudl::could, cloud
+::councellor::councillor, counselor, councilor
+::councellors::councillors, counselors, councilors
+::coururier::courier, couturier
+::coverted::converted, covered, coveted
+::cpoy::coy, copy
+::creme::crème
+::dael::deal, dial, dahl
+::deram::dram, dream
+::desparate::desperate, disparate
+::diea::idea, die
+::dieing::dying, dyeing
+::diversed::diverse, diverged
+::divorce::divorcé
+::Dona::Doña
+::doub::doubt, daub
+::dyas::dryas, Dyas (Robert Dyas is a hardware chain), dais
+::efford::effort, afford
+::effords::efforts, affords
+::eigth::eighth, eight
+::electic::eclectic, electric
+::electon::election, electron
+::elite::élite
+::emition::emission, emotion
+::emminent::eminent, imminent
+::empirial::empirical, imperial
+::Enlish::English, enlist
+::erally::orally, really
+::erested::arrested, erected
+::ethose::those, ethos
+::etude::étude
+::expose::exposé
+::extint::extinct, extant
+::eyar::year, eyas
+::eyars::years, eyas
+::eyasr::years, eyas
+::fiel::feel, field, file, phial
+::fiels::feels, fields, files, phials
+::firts::flirts, first
+::fleed::fled, freed
+::fo::for, of
+::fomr::from, form
+::fontrier::fontier, frontier
+::fro::for, to and fro, (a)fro
+::futhroc::futhark, futhorc
+::gae::game, Gael, gale
+::gaurd::guard, gourd
+::gogin::going, Gauguin
+::Guaduloupe::Guadalupe, Guadeloupe
+::Guadulupe::Guadalupe, Guadeloupe
+::guerrila::guerilla, guerrilla
+::guerrilas::guerillas, guerrillas
+::haev::have, heave
+::Hallowean::Hallowe'en, Halloween
+::herad::heard, Hera
+::housr::hours, house
+::hten::then, hen, the
+::htere::there, here
+::humer::humor, humour
+::humerous::humorous, humourous, humerus
+::hvea::have, heave
+::idesa::ideas, ides
+::imaginery::imaginary, imagery
+::imanent::eminent, imminent
+::iminent::eminent, imminent, immanent
+::indispensable::indispensible ; commonwealth vs US?
+::indispensible::indispensable ; commonwealth vs US?
+::inheritage::heritage, inheritance
+::inspite::in spite, inspire
+::interbread::interbreed, interbred
+::intered::interred, interned
+::inumerable::enumerable, innumerable
+::israelies::Israelis, Israelites
+::labatory::lavatory, laboratory
+::labled::labelled, labeled
+::lame::lamé
+::leanr::lean, learn, leaner
+::lible::libel, liable
+::liscense::license, licence
+::lisence::license, licence
+::lisense::license, licence
+::lonly::lonely, only
+::maked::marked, made
+::managable::manageable, manageably
+::manoeuver::maneuver ; Commonwealth vs US?
+::manouver::maneuver, manoeuvre
+::manouver::manoeuvre ; Commonwealth vs US?
+::manouverability::maneuverability, manoeuvrability, manoeuverability
+::manouverable::maneuverable, manoeuvrable
+::manouvers::maneuvers, manoeuvres
+::manuever::maneuver, manoeuvre
+::manuevers::maneuvers, manoeuvres
+::mear::wear, mere, mare
+::meranda::veranda, Miranda
+::Metis::Métis
+::mit::mitt, M.I.T., German "with"
+::monestary::monastery, monetary
+::moreso::more, more so
+::muscels::mussels, muscles
+::ne::né
+::neice::niece, nice
+::neigbour::neighbour, neighbor
+::neigbouring::neighbouring, neighboring
+::neigbours::neighbours, neighbors
+::nto:: not ; Replaced with case sensitive for NTO acronym.
+::oging::going, ogling
+::ole::olé
+::onot::note, not
+::opium::opïum
+::ore::öre
+::ore::øre
+::orgin::origin, organ
+::palce::place, palace
+::pate::pâte
+::pate::pâté
+::performes::performed, performs
+::personel::personnel, personal
+::positon::position, positron
+::preëmpt
+::premiere::première
+::premiered::premièred
+::premieres::premières
+::premiering::premièring
+::procede::proceed, precede
+::proceded::proceeded, preceded
+::procedes::proceeds, precedes
+::proceding::proceeding, preceding
+::profesion::profusion, profession
+::progrom::pogrom, program
+::progroms::pogroms, programs
+::prominately::prominently, predominately
+::qtuie::quite, quiet
+::qutie::quite, quiet
+::reenter::reënter
+::relized::realised, realized
+::repatition::repetition, repartition
+::residuum::residuüm
+::restraunt::restraint, restaurant
+::resume::résumé
+::rigeur::rigueur, rigour, rigor
+::role::rôle
+::rose::rosé
+::sasy::says, sassy
+::scholarstic::scholastic, scholarly
+::secceeded::seceded, succeeded
+::seceed::succeed, secede
+::seceeded::succeeded, seceded
+::sepulchure::sepulchre, sepulcher
+::sepulcre::sepulchre, sepulcher
+::shamen::shaman, shamans
+::sheat::sheath, sheet, cheat
+::shoudln::should, shouldn't
+::sieze::seize, size
+::siezed::seized, sized
+::siezing::seizing, sizing
+::sinse::sines, since
+::snese::sneeze, sense
+::sotyr::satyr, story
+::sould::could, should, sold
+::speciallized::specialised, specialized
+::specif::specific, specify
+::spects::aspects, expects
+::strat::start, strata
+::stroy::story, destroy
+::surley::surly, surely
+::surrended::surrounded, surrendered
+::thast::that, that's
+::theather::theater, theatre
+::ther::there, their, the
+::thikning::thinking, thickening
+::throught::thought, through, throughout
+::tiem::time, Tim
+::tiome::time, tome
+::tourch::torch, touch
+::transcripting::transcribing, transcription
+::travelling::traveling   ; commonwealth vs US
+::troups::troupes, troops
+::turnk::turnkey, trunk
+::uber::über
+::unmanouverable::unmaneuverable, unmanoeuvrable
+::unsed::used, unused, unsaid
+::vigeur::vigueur, vigour, vigor
+::villin::villi, villain, villein
+::vistors::visitors, vistas
+::wanna::want to - often deliberate
+::weild::wield, wild
+::wholy::wholly, holy
+::wich::which, witch
+::withdrawl::withdrawal, withdraw
+::woulf::would, wolf
+::ws::was, www.example.ws
+::Yementite::Yemenite, Yemeni
+
+# random punctuation, can't remember right now how Vim does splitting for autocorrect
+# might be useful later
+they;l->they'll
+they;r->they're
+they;v->they've
+we;d->we'd
+what;s->what's
+where;s->where's
+who;s->who's
+you;d->you'd
+company;s->company's
+here;s->here's
+i;d->I'd
+i"m->I'm
+it;s->it's
+let;s->let's
+
