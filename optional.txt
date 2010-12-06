@@ -1,6 +1,14 @@
+Check out http://www.ripcot.com/tools/autocorrect.vim.html.  Interestingly, seems to have come up with a way to do multiple word correction.
+
+http://www.ripcot.com/tools/vimrc.html
+
+http://zach.in.tu-clausthal.de/vim/vimrc.wordlist
+
 # Here are some changes that I pulled from another project that might be useful
 # some day.  Right now they don't fit into the scheme I'm using or that Vim
 # might be able to autocorrect, but figured that I would include these.
+# Only left hand sides that are not separated by spaces will work, due to how
+# Vim does abbreviations
 
 ;------------------------------------------------------------------------------
 ; Accented English words, from, amongst others,
