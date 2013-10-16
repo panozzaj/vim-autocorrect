@@ -1,3 +1,4 @@
+function AutoCorrect()
 ia Bernouilli Bernoulli
 ia bernouilli Bernoulli
 ia BErnouilli Bernoulli
@@ -12436,3 +12437,4 @@ ia YEras Years
 ia yersa years
 ia Yersa Years
 ia YErsa Years
+endfunction
