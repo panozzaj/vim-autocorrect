@@ -1,6 +1,4 @@
-====================
-General Information:
-====================
+# General Information:
 
 Author:  Anthony Panozzo
 Contact:  panozzaj@gmail.com
@@ -8,9 +6,7 @@ Script URL:  http://www.vim.org/scripts/script.php?script_id=2429
 License:  GPL
 
 
-=====================
-Detailed description:
-=====================
+## Detailed description:
 
 Looking through the examples in Vim, there are examples of correcting typos and
 misspellings like:
@@ -42,9 +38,7 @@ There is a GitHub repository that you can contribute to at
 http://github.com/panozzaj/vim-autocorrect/tree/master
 
 
-================
-Install details:
-================
+## Install details:
 
 This plugin works with Vundle and Pathogen out of the box and so this is the
 recommended method of installation. However, if you do not want to use Vundle
@@ -70,9 +64,7 @@ second every time you use Vim, put this in your .vimrc:
     call AutoCorrect()
 
 
-=================
-General thoughts:
-=================
+### General thoughts:
 
 Currently Vim has no built-in way to correct multiple words, so doing something
 like 'a a->a' is not possible.  There is a file in the GitHub repository that
@@ -98,3 +90,9 @@ common one, or just leave out the correction.
 I've thought about adding ones like (c)->&copy;, but it's not clear to me how
 many people would benefit from this.  So I guess in general, my philosophy is
 to make the changes that will help most of the people most of the time.
+
+
+## Contributions
+
+Thanks to Duncan de Wet (duncannz) for turning this into a Vundler/Pathogen
+style plugin and making some improvements.
