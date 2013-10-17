@@ -1,3 +1,4 @@
+function AutoCorrect()
 ia Bernouilli Bernoulli
 ia bernouilli Bernoulli
 ia BErnouilli Bernoulli
@@ -3465,9 +3466,9 @@ ia CPoy Copy
 ia creaeted created
 ia Creaeted Created
 ia CReaeted Created
-ia creche crèche
-ia Creche Crèche
-ia CReche Crèche
+ia creche crÃ¨che
+ia Creche CrÃ¨che
+ia CReche CrÃ¨che
 ia creedence credence
 ia Creedence Credence
 ia CReedence Credence
@@ -5430,15 +5431,15 @@ ia GAranteed Guaranteed
 ia garantees guarantees
 ia Garantees Guarantees
 ia GArantees Guarantees
-ia gardai gardaí
-ia Gardai Gardaí
-ia GArdai Gardaí
+ia gardai gardaÃ­
+ia Gardai GardaÃ­
+ia GArdai GardaÃ­
 ia garnison garrison
 ia Garnison Garrison
 ia GArnison Garrison
-ia gauarana guaraná
-ia Gauarana Guaraná
-ia GAuarana Guaraná
+ia gauarana guaranÃ¡
+ia Gauarana GuaranÃ¡
+ia GAuarana GuaranÃ¡
 ia gaurantee guarantee
 ia Gaurantee Guarantee
 ia GAurantee Guarantee
@@ -12436,3 +12437,4 @@ ia YEras Years
 ia yersa years
 ia Yersa Years
 ia YErsa Years
+endfunction
