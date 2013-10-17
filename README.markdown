@@ -1,8 +1,11 @@
 # General Information:
 
 Author:  Anthony Panozzo
+
 Contact:  panozzaj@gmail.com
+
 Script URL:  http://www.vim.org/scripts/script.php?script_id=2429
+
 License:  GPL
 
 
