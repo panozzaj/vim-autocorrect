@@ -2,7 +2,8 @@
 # but leaving for now. The examples are all there, should be easy to extract.
 class Generator
   def generate
-    output = File.open("autocorrect.vim", "w")
+    output = File.open("plugin/autocorrect.vim", "w")
+    write output, "function AutoCorrect()"
     File.open("autocorrect.dat").each do |line|
       parts = line.chomp.split("->") # we don't want the line ending
       wrong = parts[0]
@@ -13,6 +14,7 @@ class Generator
       write output, capitalization_correction(wrong, right)
       write output, first_two_letters_correction(wrong, right)
     end
+    write output, "endfunction"
   end
 
   def write(output, s)
