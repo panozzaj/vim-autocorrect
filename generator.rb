@@ -3,7 +3,7 @@
 class Generator
   def generate
     output = File.open("plugin/autocorrect.vim", "w")
-    write output, "function AutoCorrect()"
+    write output, "function! AutoCorrect()"
     File.open("autocorrect.dat").each do |line|
       parts = line.chomp.split("->") # we don't want the line ending
       wrong = parts[0]

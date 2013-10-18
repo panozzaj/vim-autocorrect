@@ -1,4 +1,4 @@
-function AutoCorrect()
+function! AutoCorrect()
 ia Bernouilli Bernoulli
 ia bernouilli Bernoulli
 ia BErnouilli Bernoulli
