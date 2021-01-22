@@ -1,4 +1,12 @@
+
+let s:auto_correct_loaded=0
+
 function! AutoCorrect()
+    if exists('s:autocorrect_loaded')
+        return
+    else
+        let s:autocorrect_loaded='1'
+    endif
 ia Bernouilli Bernoulli
 ia bernouilli Bernoulli
 ia BErnouilli Bernoulli
