@@ -18,15 +18,14 @@ misspellings like:
     iabbrev het the
     ...
 
-However, it is very time-consuming to create this list by hand.  You also have
-to enter the correct capitalization, which is a pain.  ('teh->the' is not equal
-to 'Teh->The')
+However, it is time-consuming to create this list by hand.  You also have to
+enter the correct capitalization, which is a pain. ('teh->the' will not work
+for 'Teh->The')
 
-It seems silly for everyone to create their own autocorrect file, so hopefully
-we can work together to make a sweet list.  I found a nice list from Wikipedia
-and cleaned it up a bit as a basis, and incorporated the typo fixes from Vim
-Cream.  I also added some words that I commonly misspelled or mistyped, and
-have taken additional contributions from users of the script.
+I found a nice list from Wikipedia and cleaned it up a bit as a basis, and
+incorporated the typo fixes from Vim Cream. I also added some words that I
+commonly misspelled or mistyped, and have taken additional contributions from
+users of the script.
 
 I'm sure there are some mistakes, or common mistakes that aren't in here yet,
 so if you find any, please contact me and I will gladly change things.  There
@@ -82,12 +81,6 @@ manually. For more details, see [this issue][1].
 Currently Vim has no built-in way to correct multiple words, so doing something
 like 'a a->a' is not possible.  There is a file in the GitHub repository that
 contains some of these in case there ever comes an easy way to do this.
-
-It might be nice to generate this list in a way similar to how Google generates
-spelling corrections (Bayesian approach.)  This would be require less labor on
-my part, because there are many ways you can screw something up while typing.
-However, it's not clear how fast this would be, or how good of a job it would
-do of automatically correcting without having false positives.
 
 My philosophy on contributions is to take only the ones that I could reasonably
 see a sober person making on a qwerty keyboard who is in a hurry.  So if there
