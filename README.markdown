@@ -32,10 +32,7 @@ I'm sure there are some mistakes, or common mistakes that aren't in here yet,
 so if you find any, please contact me and I will gladly change things.  There
 are some additional details or thoughts as well as a shortcut to a
 word-processing mode at
-http://22ideastreet.com/blog/2008/11/06/vim-word-processing.
-
-I find this script invaluable when using Mozex to edit forms online (blog
-posts, web mail, etc.)
+http://www.panozzaj.com/blog/2008/11/06/vim-word-processing
 
 There is a GitHub repository that you can contribute to at
 http://github.com/panozzaj/vim-autocorrect/tree/master
