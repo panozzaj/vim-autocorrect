@@ -99,3 +99,6 @@ to make the changes that will help most of the people most of the time.
 
 Thanks to Duncan de Wet (duncannz) for turning this into a Vundler/Pathogen
 style plugin and making some improvements.
+
+Thanks to Igor Dvorkin (@idvorkin) for adding a guard to ensure the plugin is
+only loaded once.
