@@ -66,8 +66,21 @@ second every time you use Vim, put this in your .vimrc:
 
     call AutoCorrect()
 
+### Troubleshooting
 
-### General thoughts:
+If you are getting the following error:
+
+```
+E117: Unknown function: AutoCorrect
+```
+
+You might check that you have the plugin loaded with your Vim bundler of choice
+before invoking the `AutoCorrect` function automatically, or invoke it
+manually. For more details, see [this issue][1].
+
+[1]: https://github.com/panozzaj/vim-autocorrect/issues/5
+
+### General thoughts
 
 Currently Vim has no built-in way to correct multiple words, so doing something
 like 'a a->a' is not possible.  There is a file in the GitHub repository that
